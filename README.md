@@ -1,7 +1,7 @@
 # Projects
 
 ## Chondrules and Giant Planets
-Like peanut butter and jelly
+Like chocolate and peanut butter
 
 ## Europa's Double Ridges
 Ice Wedging
