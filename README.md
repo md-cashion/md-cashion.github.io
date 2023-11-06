@@ -1,7 +1,4 @@
-# Projects
+# About me
 
-## Chondrules and Giant Planets
-Like chocolate and peanut butter
+I'm a PhD candidate in Planetary Science at Purdue University. Learn more about my research on the Pojects page!
 
-## Europa's Double Ridges
-Ice Wedging
