@@ -1,4 +1,3 @@
 # About me
 
-I'm a PhD candidate in Planetary Science at Purdue University. Learn more about my research on the Pojects page when it exists!
-
+I'm a planetary scientist and this is my personal website!
